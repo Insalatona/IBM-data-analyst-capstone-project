@@ -5,6 +5,8 @@ https://ibm-project-multipage-dash-app.herokuapp.com/apps/IBMproject_used_techs
 <br><br>
 <h1>Project summary:</h1>
 The project is structured in 2 files: the .ipynb where the bulk of the project resides, containing data collection through web scraping, data cleaning, exploratory analysis with data visualizations ecc..., and the dashboard online application, where the data is visualized more clearly and more in depth and where it can be interacted with.
+
+More information about the project can be seen here: https://www.coursera.org/learn/ibm-data-analyst-capstone-project?specialization=ibm-data-analyst#syllabus
 <br><br>
 <h1>Introduction To Capstone Project</h1>
 <br>
