@@ -2,6 +2,8 @@
 
 Online dashboard application link:
 https://ibm-project-multipage-dash-app.herokuapp.com/apps/IBMproject_used_techs
+The application is designed for a screen resolution of 1920x1080
+
 <br><br>
 <h1>Project summary:</h1>
 The project is structured in 2 files: the .ipynb where the bulk of the project resides, containing data collected through web scraping, data cleaning, exploratory analysis with data visualizations ecc..., and the dashboard online application, where the data is visualized more clearly and more in depth and where it can be interacted with.
