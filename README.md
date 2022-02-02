@@ -2,6 +2,7 @@
 
 Online dashboard application link:
 https://ibm-project-multipage-dash-app.herokuapp.com/apps/IBMproject_used_techs
+
 The application is designed for a screen resolution of 1920x1080
 
 <br><br>
