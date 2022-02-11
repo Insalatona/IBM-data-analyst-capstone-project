@@ -1,9 +1,13 @@
 # IBM-data-analyst-capstone-project
 
 Online dashboard application link:
+Shiny dashboard (made with R)
+https://0g4tzp-nano-ottomano.shinyapps.io/app-1/?_ga=2.202635283.345341330.1644498325-2123474829.1643818963
+
+Dash dashboard(made with python)
 https://ibm-project-multipage-dash-app.herokuapp.com/apps/IBMproject_used_techs
 
-The application is designed for a screen resolution of 1920x1080
+(The application is designed for a screen resolution of 1920x1080)
 
 <br><br>
 <h1>Project summary:</h1>
